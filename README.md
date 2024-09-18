@@ -51,7 +51,7 @@ If you tried to run your Hadoop code locally on intellij on Windows you might ge
 > Create a new environment variable: HADOOP_HOME then enter the path to the folder where the winutils.exe file is located:
 HADOOP_HOME=C:\hadoop\bin
 >
-> ![Screenshot 2024-09-18 212623](https://github.com/user-attachments/assets/f8aaae75-11af-4eb3-bc7b-7ed029c8f39d)
+> ![Screenshot 2024-09-18 223054](https://github.com/user-attachments/assets/c828c0c2-3364-4afc-babd-9af395a09741)
 >
 > ![env](https://github.com/user-attachments/assets/f18f0b84-ea5b-426a-91a4-af33c238bc47)
 >
