@@ -27,7 +27,7 @@ If you tried to run your Hadoop code locally on intellij on Windows you might ge
 
 > https://github.com/steveloughran/winutils/tree/master/hadoop-2.7.1/bin
 >
-> ![Screenshot 2024-09-18 215859](https://github.com/user-attachments/assets/6e419655-b0eb-4954-bf37-b9fecd2f801e)
+> ![Screenshot 2024-09-18 221016](https://github.com/user-attachments/assets/31c301be-7f33-4fa3-82f7-a9758a5b4062)
 >
 > Download winutils.exe in “bin” folder as shown below:
 >
