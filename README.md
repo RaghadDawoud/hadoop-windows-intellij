@@ -31,7 +31,7 @@ If you tried to run your Hadoop code locally on intellij on Windows you might ge
 >
 > Download winutils.exe in “bin” folder as shown below:
 >
-> ![download winutils](https://github.com/user-attachments/assets/4dc809cf-a64a-4735-8a9c-0472e89fbf01)
+> ![Screenshot 2024-09-18 221706](https://github.com/user-attachments/assets/c585baca-5ff5-4d0e-9857-b91842f44f8c)
 >
 > ![save winutils](https://github.com/user-attachments/assets/266ec36d-c353-46c7-ba28-3e351b821a9e)
 >
