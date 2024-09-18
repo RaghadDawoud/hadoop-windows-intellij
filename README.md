@@ -37,7 +37,8 @@ If you tried to run your Hadoop code locally on intellij on Windows you might ge
 >
 > Next download the hadoop.dll file the same way you downloaded winutils.exe in “bin” folder as shown:
 >>
->> ![hadoopdll github](https://github.com/user-attachments/assets/3d638692-7d6c-42e3-9262-884389a52cdc)
+>> ![Screenshot 2024-09-18 222543](https://github.com/user-attachments/assets/b3d6a175-7a97-4375-beef-5595d5d4436a)
+>>
 >> ![Screenshot 2024-09-18 220516](https://github.com/user-attachments/assets/40029c4e-adcd-40a6-9c23-6e3ef1b698b4)
 >>
 >> Note: the version of winutils.exe and Hadoop.dll should be the same
