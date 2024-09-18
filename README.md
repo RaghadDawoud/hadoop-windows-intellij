@@ -36,13 +36,14 @@ If you tried to run your Hadoop code locally on intellij on Windows you might ge
 > ![save winutils](https://github.com/user-attachments/assets/266ec36d-c353-46c7-ba28-3e351b821a9e)
 >
 > Next download the hadoop.dll file the same way you downloaded winutils.exe in “bin” folder as shown:
->
-> ![hadoopdll github](https://github.com/user-attachments/assets/3d638692-7d6c-42e3-9262-884389a52cdc)
->
-> ![download hadoopdll new](https://github.com/user-attachments/assets/6b0d3e59-3d06-458f-a47d-2bd8f442e5ca)
-> Note: the version of winutils.exe and Hadoop.dll should be the same
->
-> 
+>>
+>> ![hadoopdll github](https://github.com/user-attachments/assets/3d638692-7d6c-42e3-9262-884389a52cdc)
+>>
+>> ![download hadoopdll new](https://github.com/user-attachments/assets/6b0d3e59-3d06-458f-a47d-2bd8f442e5ca)
+>> Note: the version of winutils.exe and Hadoop.dll should be the same
+>>
+>>
+
 
 #### 3.	Step 3: go to system environment variables
 
@@ -60,10 +61,10 @@ HADOOP_HOME=C:\hadoop\bin
 > ![Screenshot 2024-09-18 212959](https://github.com/user-attachments/assets/fa2e575d-d244-452c-9718-0fc36b839f83)
 >
 > Next go to Path -> double click on Path -> create a new path %HADOOP_HOME%\bin as shown below then click on ok on all windows:
->
-> ![path](https://github.com/user-attachments/assets/44fa687e-7459-47d2-aa4a-7b96599276da)
->
-> 
+>>
+>> ![path](https://github.com/user-attachments/assets/44fa687e-7459-47d2-aa4a-7b96599276da)
+>>
+>> 
 
 4. Finally:
 >
