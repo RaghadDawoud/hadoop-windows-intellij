@@ -8,3 +8,5 @@ If you tried to run your Hadoop code locally on intellij on Windows you might ge
 
 ![photo_5994413562593920206_w](https://github.com/user-attachments/assets/a3441619-0394-4b1f-b888-deae0f4fa67f)
 
+## You can solve this problem by following these steps:
+
