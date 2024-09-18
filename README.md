@@ -6,5 +6,5 @@ If you tried to run your Hadoop code locally on intellij on Windows you might ge
 --
 ![photo_5994413562593920205_w](https://github.com/user-attachments/assets/79332b39-7c13-4a12-a653-d14044fd1744)
 
-![Uploading photo_5994413562593920206_w.jpg…]()
+![photo_5994413562593920206_w](https://github.com/user-attachments/assets/a3441619-0394-4b1f-b888-deae0f4fa67f)
 
