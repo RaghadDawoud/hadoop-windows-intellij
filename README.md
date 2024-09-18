@@ -10,3 +10,5 @@ If you tried to run your Hadoop code locally on intellij on Windows you might ge
 
 ## You can solve this problem by following these steps:
 
+#### 1. Step 1: Create a directory
+
